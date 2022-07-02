@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BoardGamesBoji</string>
+    <string name="Name">Nombre</string>
+    <string name="Age">Edad</string>
+    <string name="Year">Año</string>
+    <string name="Publisher">Editor</string>
+</resources>
